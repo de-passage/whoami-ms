@@ -2,9 +2,9 @@
   "name": "whoami-ms",
   "version": "1.0.0",
   "description": "Get your personal info",
-  "main": "index.js",
+  "main": "app/javascript/index.js",
   "scripts": {
-    "start": "node index.js $PORT",
+    "start": "node app/javascript/index.js $PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
