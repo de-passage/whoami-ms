@@ -1,0 +1,23 @@
+{
+  "name": "whoami-ms",
+  "version": "1.0.0",
+  "description": "Get your personal info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-passage/whoami-ms.git"
+  },
+  "author": "Sylvain Leclercq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/de-passage/whoami-ms/issues"
+  },
+  "homepage": "https://github.com/de-passage/whoami-ms#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.1"
+  }
+}
